@@ -1,0 +1,35 @@
+body {
+  padding-top: 50px;
+  background: #eee;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+/* Header CSS */
+
+.navbar-fixed-top
+.header-01 .navbar-inverse {
+  background: #0097a7;
+  border-color: #00838F;
+  color: #fff;
+  box-shadow: 0 0 2px rgba(0,0,0,.14), 0 2px 4px rgba(0,0,0,.28);
+}
+
+.header-01 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #00838F;
+}
+.header-01 .navbar-inverse .navbar-toggle {
+    border-color: #00838F;
+}
+.header-01 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: #00838F;
+}
+.header-01 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #006064;
+}
+/* End Header CSS */
+/* Footer Css */
+
+/* END Footer Css */
